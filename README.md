@@ -2,7 +2,8 @@
 
 ### Projeto da semana dev superior 2.0
 
-projeto para uma pizzaria online com cadastro e entrega de pedidos
+Projeto para uma pizzaria online com cadastro e entrega de pedidos.
+Geolocalização usando React Leaflet
 
 - Backend
 <img src="https://img.shields.io/static/v1?label=spring&message=framework&color=brightgreen&style=for-the-badge&logo=SPRING"/>
