@@ -8,4 +8,4 @@ projeto para cadastrar e entregar pedidos com os produtos selecinoados
 <img src="https://img.shields.io/static/v1?label=spring&message=framework&color=brightgreen&style=for-the-badge&logo=SPRING"/>
 
 - Fontend
-<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT "/>
