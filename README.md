@@ -4,8 +4,9 @@
 
 Projeto para uma pizzaria online com cadastro e entrega de pedidos.</br>
 Geolocalização usando React Leaflet</br>
-
+</br>
 - Backend
+***
 <img src="https://img.shields.io/static/v1?label=spring&message=framework&color=brightgreen&style=for-the-badge&logo=SPRING"/>
 
 - Fontend
