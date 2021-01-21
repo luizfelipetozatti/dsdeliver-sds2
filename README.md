@@ -9,3 +9,6 @@ projeto para uma pizzaria online com cadastro e entrega de pedidos
 
 - Fontend
 <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+
+
+https://luizfelipetozatti-sds2.netlify.app/
