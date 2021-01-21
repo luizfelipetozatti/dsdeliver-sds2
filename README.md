@@ -2,7 +2,7 @@
 
 ### Projeto da semana dev superior 2.0
 
-projeto para cadastrar e entregar pedidos com os produtos selecinoados
+projeto para uma pizzaria online com cadastro e entrega de pedidos
 
 - Backend
 <img src="https://img.shields.io/static/v1?label=spring&message=framework&color=brightgreen&style=for-the-badge&logo=SPRING"/>
