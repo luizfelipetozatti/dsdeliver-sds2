@@ -1,6 +1,6 @@
 # dsdeliver-sds2
 
-## Projeto da semana dev superior 2.0
+###### Projeto da semana dev superior 2.0
 
 Projeto para uma pizzaria online com cadastro e entrega de pedidos.</br>
 Geolocalização usando React Leaflet</br>
